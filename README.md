@@ -1,2 +1,2 @@
 ## 🔔 Availability
-**Availability: This repository is maintained for manuscript review. We will make the repository available upon paper acceptance.**
+**This repository is currently maintained as a placeholder for the manuscript. The source code will be made publicly available after the peer-review process is completed.**
